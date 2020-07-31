@@ -10,5 +10,5 @@
 - MongoDB 🌿
 - Docker 🐳
 
-- I'm currently learning more about Spring Framework and Frontend Frameworks like Vue Js
+- I'm currently learning more about Spring Framework and Frontend Frameworks like Vue Js 📖
 - In my spare time I like to play guitar and play games 🎸🎮
