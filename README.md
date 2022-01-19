@@ -6,7 +6,7 @@
 - Java ☕
 - Spring  qBoot 🍃
 - Quarkus ☁️
-- Apache Kafka 📨
+- Apache Kafka 📨😸
 - Swagger 📃
 - PostgreSQL 🐘
 - MongoDB 🌿
@@ -15,5 +15,5 @@
 - Mockito 🍹
 - Git :octocat:
 
-- I'm currently learning more about Spring Framework and Frontend Frameworks like Vue Js 📖
-- In my spare time I like to play guitar and play games 🎸🎮
+- I'm currently learning more about Quarkus, Reactive Programming and Apache Kafka Streams! 🤓📖
+- In my spare time I like to play guitar, play games and I take care of my cats! 🎸🎮😺😸
