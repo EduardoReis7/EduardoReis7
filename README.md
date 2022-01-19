@@ -4,12 +4,13 @@
 - I'm currently working on Backend Projects 💻
 - With technologies such as:
 - Java ☕
-- Spring Boot 🍃
+- Spring  qBoot 🍃
+- Quarkus ☁️
+- Apache Kafka 📨
 - Swagger 📃
 - PostgreSQL 🐘
 - MongoDB 🌿
 - Docker 🐳
-- Apache Kafka 📨
 - JUnit ✔️❌
 - Mockito 🍹
 - Git :octocat:
