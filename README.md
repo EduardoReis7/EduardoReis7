@@ -4,7 +4,7 @@
 - I'm currently working on Backend Projects 💻
 - With technologies such as:
 - Java ☕
-- Spring  qBoot 🍃
+- Spring Boot 🍃
 - Quarkus ☁️
 - Apache Kafka 📨😸
 - Swagger 📃
