@@ -6,7 +6,7 @@
 - Java ☕
 - Spring Boot 🍃
 - Quarkus ☁️
-- Apache Kafka 📨😸
+- Apache Kafka 📨
 - Swagger 📃
 - PostgreSQL 🐘
 - MongoDB 🌿
