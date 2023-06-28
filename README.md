@@ -1,4 +1,4 @@
-### Eduardo Reis
+### Eduardo Dovigi
 [![Linkedin badge](https://img.shields.io/badge/-Linkedin-blue?flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-dovigi-a97034158)](https://www.linkedin.com/in/eduardo-dovigi-a97034158)
 [![Gmail badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardodovigireis@gmail.com)](mailto:eduardodovigireis@gmail.com)
 - I'm currently working on Backend Projects 💻
